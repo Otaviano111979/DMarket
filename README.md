@@ -23,9 +23,6 @@ marketplace-descentralizado/
 └── package.json (opcional)    # Se utilizar Node.js para desenvolvimento
 
 
-decentralized-marketplace/ │ ├── contracts/ │ └── Marketplace.sol # Solidity smart contract │ ├── frontend/ │ ├── index.html # Main web interface │ ├── app.js # Contract interaction logic │ └── style.css # CSS styles │ ├── README.md # Project documentation └── package.json (optional) # For Node.js development (if used)
-
-
 ## How to Run the Project
 
 ### 1. Deploy the Smart Contract
