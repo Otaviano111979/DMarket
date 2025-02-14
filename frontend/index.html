@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Marketplace Descentralizado</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Marketplace Descentralizado</h1>
+    <div id="account"></div>
+    
+    <h2>Cadastrar Produto</h2>
+    <form id="productForm">
+        <input type="text" id="productName" placeholder="Nome do Produto" required>
+        <input type="number" id="productPrice" placeholder="Preço em Ether" required>
+        <button type="submit">Cadastrar Produto</button>
+    </form>
+    
+    <h2>Produtos Disponíveis</h2>
+    <div id="productList"></div>
+    
+    <!-- Inclui a biblioteca Web3.js -->
+    <script src="https://cdn.jsdelivr.net/npm/web3@latest/dist/web3.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
