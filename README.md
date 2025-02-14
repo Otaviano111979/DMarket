@@ -9,6 +9,19 @@ This project is a decentralized platform inspired by systems like Shopify or Hot
 - **Product Purchase:** Buyers can purchase products using Ethereum, with transactions processed automatically by smart contracts.
 
 ## Project Structure
+marketplace-descentralizado/
+│
+├── contracts/
+│   └── Marketplace.sol        # Contrato inteligente em Solidity
+│
+├── frontend/
+│   ├── index.html             # Interface web principal
+│   ├── app.js                 # Lógica de interação com o contrato
+│   └── style.css              # Arquivo de estilos CSS
+│
+├── README.md                  # Documentação e instruções do projeto
+└── package.json (opcional)    # Se utilizar Node.js para desenvolvimento
+
 
 decentralized-marketplace/ │ ├── contracts/ │ └── Marketplace.sol # Solidity smart contract │ ├── frontend/ │ ├── index.html # Main web interface │ ├── app.js # Contract interaction logic │ └── style.css # CSS styles │ ├── README.md # Project documentation └── package.json (optional) # For Node.js development (if used)
 
