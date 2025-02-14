@@ -44,3 +44,14 @@ This project serves as a base for building a decentralized marketplace platform.
 - Governance mechanisms using tokens.
 
 Feel free to contribute and enhance this project!
+
+#Decentralized
+#Blockchain
+#Ethereum
+#SmartContracts
+#Web3
+#Marketplace
+#CryptoCommerce
+#OpenSource
+#FinTech
+#Innovation
